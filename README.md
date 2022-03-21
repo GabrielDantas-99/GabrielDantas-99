@@ -1,4 +1,4 @@
-## Olá, eu sou o Gabriel Dantas, desenvolvedor front-end e novato na ciência de dados!
+## Olá, eu sou o Gabriel Dantas, Desenvolvedor Web e entusiasta da ciência de dados!
 <div align="center">
   <a href="https://github.com/gabrieldantas-99">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrieldantas-99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
