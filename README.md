@@ -11,7 +11,7 @@
   <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Biel-wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-  <img align="right" alt="Biel-pic" height="150" style="border-radius:50px;" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/0166c4ca40d2ec08732cc51ba621974e-1597176479/sasuke_mockup/make-organic-pixel-art-character-animation.gif">
+  <img align="right" alt="Biel-pic" height="150" style="border-radius:50px;" src="https://data.whicdn.com/images/79179917/original.gif">
 </div>
   
   ##
